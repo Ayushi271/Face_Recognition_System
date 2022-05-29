@@ -25,7 +25,7 @@ Inside it please select Data Import option
 
 Then choose Import from Self-Contained File and set Default_Target_Schema = face_recognition only 
 
-And in front of Import from self-contained file write the path name as    C:\Face_Recognition_System\Dump20220528.sql   copy link 
+And in front of Import from self-contained file write the path name as    C:\Face_Recognition_System\dataset1.sql   copy link 
 
 At bottom choose Start Import 
 
