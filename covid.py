@@ -1,3 +1,5 @@
+# It is highly recommended to run the file via index.py otherwise there will be difference in size of window size if you open it directly due to import of pywhatkit in another file of python.
+
 from tkinter import *
 from tkinter import ttk
 from PIL import Image, ImageTk

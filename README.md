@@ -191,6 +191,8 @@ As we all know last few years due to covid there were many people who were livin
 
 5: Again it is highly recommended to run the file via index.py otherwise there be difference in size of window size if you open it directly.
 
+* If it is showing error  cv2 have no attribute face then uninstall opencv-python and opencv-contrib-python and again install it.
+
 #  Mask Detection
 
 This feature will detect the mask on the face and tell about that the person has wore the mask or not. For saving the data press "a" so that a data of yours can be stored. This will help to check that in a organization how many people come with mask and without mask.
