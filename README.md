@@ -23,7 +23,7 @@ Now after setting the database click on the Server option present in mysql workb
 
 Inside it please select Data Import option
 
-Then choose Import from Self-Contained File and set Default_Target_Schema = face_recognition only 
+Then choose Import from Self-Contained File and set Default_Target_Schema in new  = face_recognition only 
 
 And in front of Import from self-contained file write the path name as    C:\Face_Recognition_System\dataset1.sql   copy link 
 
@@ -247,6 +247,6 @@ Clone the repository and then,
 
 5: The coding of the page is stored in the corona_cases.py.
 
-6: It is highly recommended to run the file via index.py otherwise there be difference in size of window size if you open it directly due to import of pywhatkit in another file of python.
+6: It is highly recommended to run the file via index.py otherwise there will be difference in size of window size if you open it directly due to import of pywhatkit in another file of python.
 
 
